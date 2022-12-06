@@ -1,0 +1,21 @@
+header{
+    min-height: 100px;
+    background-color: orange;
+}
+*[class^="col"]{
+    min-height: 100%;
+    border: 1px solid black;
+}
+
+.d-md-flex li{
+    color: red;
+}
+.jumbo{
+    height: 500px;
+    background-color: lightgreen;
+}
+.cards{
+    background-color: darkred;
+    border: 1px solid black;
+    height: 400px;
+}
